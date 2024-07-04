@@ -1,1 +1,2 @@
-This is my "credit card default prediction" capstone project made for my 4-week EDUNET internship in the domain of AI and cloud.
+<h1>Credit-Card-Default-Prediction</h1>
+This is my Edunet Internship Capstone Project Done in Jupyter notebook using python.
