@@ -1,6 +1,3 @@
-# Save the README content to a .md file for user to download
-
-readme_content = """
 # 💳 Credit Card Default Prediction Using Machine Learning
 
 This project aims to build a classification model to predict whether a customer will default on their credit card payments. Using a dataset of 30,000 records, the system analyzes transactional and demographic data to assist financial institutions in managing credit risk more effectively.
@@ -97,4 +94,3 @@ This project aims to build a classification model to predict whether a customer 
 B.Tech AI & DS – IIITDM Kurnool  
 📧 satyamprashant2002@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/satyam-prashant/)
-"""
